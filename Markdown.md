@@ -11,6 +11,6 @@ This is **bold** text
 - ijklf
 - This is Assignment[Debashree_Assignment 1TWMC.pdf](https://github.com/Debo2793/TWMC/files/11182828/Debashree_Assignment.1TWMC.pdf)
 
-|Sytax| |Description|
+|Sytax||Description|
 |------------||-----------|
 |Header||Title|
