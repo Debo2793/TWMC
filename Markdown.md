@@ -1,9 +1,9 @@
-#heading1
-##heading1
-###heading1
-####heading1
-####heading1
-#####heading1
+# heading1
+## heading1
+### heading1
+#### heading1
+#### heading1
+##### heading1
 This is  *italics* text
 This is **bold** text
 - abcd
